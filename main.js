@@ -21,7 +21,7 @@ console.log(idadeUsuario == 18)
 //ao ter a comparação eu tenho o resultado em boolean
 
 //se -> se (pergunta)
-//senão -> else executa caso o if esteja false
+
 // {} demarca o que vai ser executado
 
 if(idadeUsuario >= 18){
