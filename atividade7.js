@@ -6,6 +6,5 @@ if (n1 >= 1){
         console.log(n1 + " ESTA entre 1 e 100!")
     }else{
         console.log(n1 + " NÃO esta entre 1 e 100!")
-}
-    
+  }
 }
